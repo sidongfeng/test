@@ -51,5 +51,5 @@ plt.show()
 
 
 <div class="header-action-item">
-	<Icon-Cmaera class="black" />
+    <i class="icon-camera black"></i>
 </div>
