@@ -49,4 +49,7 @@ plt.show()
 #     print(random.uniform(2, 29))
 
 
-<Icon-Camera />
+
+<div class="header-action-item">
+	<i class="icon-camera black"></i>
+</div>
