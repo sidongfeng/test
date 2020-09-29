@@ -49,4 +49,4 @@ plt.show()
 #     print(random.uniform(2, 29))
 
 
-<i class="icon-camera black"></i>
+<Icon-Camera />
